@@ -1,0 +1,12 @@
+git clone https://github.com/your-username/bird-repellent.git
+cd bird-repellent
+git add .
+git commit -m "Initial commit"
+git push origin main
+git pull origin main
+
+git clone https://github.com/your-username/bird-repellent.git
+cd bird-repellent
+git add .
+git commit -m "Initial commit of bird repellent project"
+git push origin main
